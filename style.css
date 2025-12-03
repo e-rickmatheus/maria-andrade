@@ -610,6 +610,15 @@ footer {
     /* Quebra link longo se necessário */
 }
 
+/* Link Mathrick */
+.link-mathrick:hover {
+    /* Cor ao passar o mouse */
+    color: #0892d0 !important;
+    /* Você pode adicionar outros efeitos aqui, se desejar */
+    cursor: pointer;
+}
+
+
 /* RESPONSIVIDADE */
 @media (max-width: 768px) {
     .header-container {
